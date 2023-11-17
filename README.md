@@ -11,3 +11,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=krystalZin&style=flat&color=ff69b4" alt="Profile Views"/>
 </p>
+
+<h2 align="center">
+  Welcome to my Github!
+  <img src="https://media.giphy.com/media/UivD8bWmSe2JX7y0Qa/giphy.gif" width="70px"/>
+</h2>
