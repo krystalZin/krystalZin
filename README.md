@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/UivD8bWmSe2JX7y0Qa/giphy.gif" width="70px"/>
 </p>
 
-<details>
+<details align="center">
   <summary><strong>More About Me</strong></summary>
 
   ### :hammer_and_wrench: Languages and Tools :
