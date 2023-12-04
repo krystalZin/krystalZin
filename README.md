@@ -31,7 +31,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Unix/Linux" alt="Unix/Linux" width="40" height="40"/>&nbsp;
   </div>
 
-  ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krystalZin&theme=light&background=pink)](https://git.io/streak-stats)
 
   ![Krystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krystalZin&show_icons=true&theme=dracula)
