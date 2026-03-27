@@ -33,6 +33,4 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=krystalZin&theme=light&background=pink)](https://git.io/streak-stats)
 
-  ![Krystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=krystalZin&show_icons=true&theme=dracula)
-
 </details>
